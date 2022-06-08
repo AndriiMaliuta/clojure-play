@@ -1,2 +1,2 @@
 
-clojure.main
+(clojure.main)
